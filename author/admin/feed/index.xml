@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Code Express</title>
+	<atom:link href="http://localhost/wordpress/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://agnijapal.github.io/code-express</link>
+	<description>Express Your Idea Through Coding</description>
+	<lastBuildDate>Sun, 27 Mar 2022 15:06:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>NFT &#8211; Non Fungible Token</title>
+		<link>https://agnijapal.github.io/code-express/nft-non-fungible-token/</link>
+					<comments>https://agnijapal.github.io/code-express/nft-non-fungible-token/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2022 15:04:24 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<guid isPermaLink="false">https://agnijapal.github.io/code-express/?p=805</guid>
+
+					<description><![CDATA[A non-fungible token (NFT) is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded. Types of NFT data units may be associated with digital files such as photos, videos, and audio. Because each token is uniquely identifiable, NFTs differ from blockchain cryptocurrencies, such as &#8230;<p class="read-more"> <a class="" href="https://agnijapal.github.io/code-express/nft-non-fungible-token/"> <span class="screen-reader-text">NFT &#8211; Non Fungible Token</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>A non-fungible token (NFT) is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded. Types of NFT data units may be associated with digital files such as photos, videos, and audio. Because each token is uniquely identifiable, NFTs differ from blockchain cryptocurrencies, such as Bitcoin.</p>
+
+
+
+<p>NFT ledgers claim to provide a public certificate of authenticity or proof of ownership, but the legal rights conveyed by an NFT can be uncertain. NFTs do not restrict the sharing or copying of the underlying digital files, do not necessarily convey the copyright of the digital files, and do not prevent the creation of NFTs with identical associated files.</p>
+
+
+
+<p>NFTs have been used as a speculative asset, and they have drawn increasing criticism for the energy cost and carbon footprint associated with validating blockchain transactions as well as their frequent use in art scams. The NFT market has been compared to a Ponzi scheme.</p>
+
+
+
+<p>An NFT is a unit of data, stored on a variety of digital ledger called a blockchain, which can be sold and traded. The NFT can be associated with a particular digital or physical asset (such as a file or a physical object) and a license to use the asset for a specified purpose. An NFT (and, if applicable, the associated license to use, copy, or display the underlying asset) can be traded and sold on digital markets. The extralegal nature of NFT trading usually results in an informal exchange of ownership over the asset that has no legal basis for enforcement, and so often confers little more than use as a status symbol.</p>
+
+
+
+<p>NFTs function like cryptographic tokens, but unlike cryptocurrencies such as Bitcoin or Ethereum, NFTs are not mutually interchangeable, and so are not fungible. (While all bitcoins are equal, each NFT may represent a different underlying asset and thus may have a different value.)[8] NFTs are created when blockchains concatenate records containing cryptographic hashes—sets of characters that identify a set of data—onto previous records, creating a chain of identifiable data blocks. This cryptographic transaction process ensures the authentication of each digital file[clarification needed] by providing a digital signature that tracks NFT ownership. Data links that are part of NFT records, that for example may point to details about where the associated art is stored, can be affected by link rot.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agnijapal.github.io/code-express/nft-non-fungible-token/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ETHEREUM</title>
+		<link>https://agnijapal.github.io/code-express/ethereum/</link>
+					<comments>https://agnijapal.github.io/code-express/ethereum/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2022 14:57:53 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<guid isPermaLink="false">https://agnijapal.github.io/code-express/?p=801</guid>
+
+					<description><![CDATA[The foundation for our digital future Ethereum is open to everyone.All you need is a wallet to take part. Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location. It&#8217;s a community-built technology behind the cryptocurrency ether (ETH) and thousands of Applications you can use today &#8230;<p class="read-more"> <a class="" href="https://agnijapal.github.io/code-express/ethereum/"> <span class="screen-reader-text">ETHEREUM</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The foundation for our digital future</p>
+
+
+
+<p>Ethereum is open to everyone.<br>All you need is a wallet to take part.</p>
+
+
+
+<p>Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location. It&#8217;s a community-built technology behind the cryptocurrency ether (ETH) and thousands of Applications you can use today</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://ethereum.org/static/e7a074a56d991c4f9e65857bafa0f053/20da3/what-is-ethereum.webp" alt=""/></figure>
+
+
+
+<h2>ETHEREUM 101</h2>
+
+
+
+<p>Ethereum is a technology that lets you send cryptocurrency to anyone for a small fee. It also powers applications that everyone can use and no one can take down.</p>
+
+
+
+<p>It&#8217;s the world&#8217;s programmable blockchain.</p>
+
+
+
+<p>Ethereum builds on Bitcoin&#8217;s innovation, with some big differences.</p>
+
+
+
+<p>Both let you use digital money without payment providers or banks. But Ethereum is programmable, so you can also use it for lots of different digital assets – even Bitcoin!</p>
+
+
+
+<p>This also means Ethereum is for more than payments. It&#8217;s a marketplace of financial services, games and apps that can&#8217;t steal your data or censor you.</p>
+
+
+
+<p>So step into the bazaar and give it a try…</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agnijapal.github.io/code-express/ethereum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quantum Computing &#8211; A new era of computing technology</title>
+		<link>https://agnijapal.github.io/code-express/quantum-computing-a-new-era-of-computing-technology/</link>
+					<comments>https://agnijapal.github.io/code-express/quantum-computing-a-new-era-of-computing-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2022 14:42:24 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://agnijapal.github.io/code-express/?p=798</guid>
+
+					<description><![CDATA[What is Quantum Computing ? Quantum computing is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers. Today, IBM Quantum makes real quantum hardware &#8212; a tool scientists only began to imagine three decades ago &#8212; available to thousands of developers. Our engineers deliver ever-more-powerful superconducting &#8230;<p class="read-more"> <a class="" href="https://agnijapal.github.io/code-express/quantum-computing-a-new-era-of-computing-technology/"> <span class="screen-reader-text">Quantum Computing &#8211; A new era of computing technology</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2>What is Quantum Computing ?</h2>
+
+
+
+<p>Quantum computing is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers.</p>
+
+
+
+<p>Today, IBM Quantum makes real quantum hardware &#8212; a tool scientists only began to imagine three decades ago &#8212; available to thousands of developers. Our engineers deliver ever-more-powerful superconducting quantum processors at regular intervals, building toward the quantum computing speed and capacity necessary to change the world.</p>
+
+
+
+<p>These machines are very different from the classical computers that have been around for more than half a century. Here&#8217;s a primer on this transformative technology.</p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://www.ibm.com/quantum-computing/"></video><figcaption>IBM on Quantum Computing</figcaption></figure>
+
+
+
+<h2>Why do we need quantum computers?</h2>
+
+
+
+<p>For some problems, supercomputers aren’t that super.</p>
+
+
+
+<p>When scientists and engineers encounter difficult problems, they turn to supercomputers. These are very large classical computers, often with thousands of classical CPU and GPU cores. However, even supercomputers struggle to solve certain kinds of problems.</p>
+
+
+
+<p>If a supercomputer gets stumped, that&#8217;s probably because the big classical machine was asked to solve a problem with a high degree of complexity. When classical computers fail, it&#8217;s often due to complexity</p>
+
+
+
+<p>Complex problems are problems with lots of variables interacting in complicated ways. Modeling the behavior of individual atoms in a molecule is a complex problem, because of all the different electrons interacting with one another. Sorting out the ideal routes for a few hundred tankers in a global shipping network is complex too.</p>
+
+
+
+<p>Some complex problems are less obvious: A supercomputer would struggle to find the ideal seating arrangement of even 10 guests at a dinner party if they don&#8217;t all want to sit next to one another, or to find the prime factors of a big number.</p>
+
+
+
+<p class="has-text-align-right">Source : IBM</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agnijapal.github.io/code-express/quantum-computing-a-new-era-of-computing-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BAT &#8211; Making Crypto and DeFi accessible and useable for everyone</title>
+		<link>https://agnijapal.github.io/code-express/bat-basic-attention-token/</link>
+					<comments>https://agnijapal.github.io/code-express/bat-basic-attention-token/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2022 14:00:10 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<guid isPermaLink="false">https://agnijapal.github.io/code-express/?p=785</guid>
+
+					<description><![CDATA[Crypto and DeFi are hard to use and the $330 billion digital advertising industry is failing users, publishers and advertisers. With Basic Attention Token and Brave we want to take Crypto to the next 1B users and solve the endemic inefficiencies and privacy violations hobbling the digital ad industry. BAT has seen stunning results since &#8230;<p class="read-more"> <a class="" href="https://agnijapal.github.io/code-express/bat-basic-attention-token/"> <span class="screen-reader-text">BAT &#8211; Making Crypto and DeFi accessible and useable for everyone</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-left">Crypto and DeFi are hard to use and the $330 billion digital advertising industry is failing users, publishers and advertisers. With Basic Attention Token and Brave we want to take Crypto to the next 1B users and solve the endemic inefficiencies and privacy violations hobbling the digital ad industry.</p>
+
+
+
+<p>BAT has seen stunning results since its integration into the <a rel="noreferrer noopener" href="https://brave.com/download/" target="_blank">Brave browser’s</a> first global private ad platform: <strong>54 million</strong> monthly active users, <strong>16 million</strong> daily active users, 1.4 million verified creators accepting BAT, millions of wallets created, thousands of ad campaigns with leading brands, and growing utility in the most innovative names in blockchain gaming. The results make BAT one of the most, if not the most, successful alt–coin projects to date.For the latest figures, you can visit <a rel="noreferrer noopener" href="https://brave.com/transparency/" target="_blank">brave.com/transparency</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agnijapal.github.io/code-express/bat-basic-attention-token/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>RISC 5 &#8211; The Free and Open RISC Instruction Set Architecture</title>
+		<link>https://agnijapal.github.io/code-express/risc-5-a-new-hope/</link>
+					<comments>https://agnijapal.github.io/code-express/risc-5-a-new-hope/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2022 13:12:13 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://agnijapal.github.io/code-express/?p=732</guid>
+
+					<description><![CDATA[RISC-V is a free and open ISA enabling a new era of processor innovation through open standard collaboration.The RISC-V ISA delivers a new level of free, extensible software and hardware freedom on architecture, paving the way for the next 50 years of computing design and innovation. RISC-V has broken down barriers in the semiconductor industry, &#8230;<p class="read-more"> <a class="" href="https://agnijapal.github.io/code-express/risc-5-a-new-hope/"> <span class="screen-reader-text">RISC 5 &#8211; The Free and Open RISC Instruction Set Architecture</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container"><iframe loading="lazy" title="RISC-V: The Open Era of Computing" width="1200" height="675" src="https://www.youtube.com/embed/Hl3nXexMXS0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>RISC &#8211; V : The Open Era of Computing</figcaption></figure>
+
+
+
+<p>RISC-V is a free and open ISA enabling a new era of processor innovation through open standard collaboration.<br>The RISC-V ISA delivers a new level of free, extensible software and hardware freedom on architecture, paving the way for the next 50 years of computing design and innovation.</p>
+
+
+
+<p>RISC-V has broken down barriers in the semiconductor industry, bringing together different companies, industries, and geographies for open collaboration. RISC-V combines a modular technical approach with an open license business model, meaning that anyone, anywhere can leverage the IP contributed and produced by RISC-V International.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container"><iframe loading="lazy" title="RISC-V Are you ready to break free?" width="1200" height="675" src="https://www.youtube.com/embed/yqp4LjwNk5o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Incorporated in Switzerland, RISC-V International is truly a global organization. As a non-profit, RISC-V International does not maintain any commercial interest in products or services. RISC-V also does not take a political position on behalf of any geography. We are proud to see organizations from around the world working together in this new era of processor innovation.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agnijapal.github.io/code-express/risc-5-a-new-hope/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web development with Php</title>
+		<link>https://agnijapal.github.io/code-express/web-deevlopment-with-php/</link>
+					<comments>https://agnijapal.github.io/code-express/web-deevlopment-with-php/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2022 13:10:20 +0000</pubDate>
+				<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">https://agnijapal.github.io/code-express/?p=728</guid>
+
+					<description><![CDATA[PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP &#8230;<p class="read-more"> <a class="" href="https://agnijapal.github.io/code-express/web-deevlopment-with-php/"> <span class="screen-reader-text">Web development with Php</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.</p>
+
+
+
+<p>PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group. PHP originally stood for Personal Home Page, but it now stands for the recursive initialism PHP: Hypertext Preprocessor.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container"><iframe loading="lazy" title="PHP Programming Language Tutorial - Full Course" width="1200" height="675" src="https://www.youtube.com/embed/OK_JCtrrv-c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>PHP Tutorial by freeCodeCamp.org</figcaption></figure>
+
+
+
+<p>PHP code is usually processed on a web server by a PHP interpreter implemented as a module, a daemon or as a Common Gateway Interface (CGI) executable. On a web server, the result of the interpreted and executed PHP code – which may be any type of data, such as generated HTML or binary image data – would form the whole or part of an HTTP response. Various web template systems, web content management systems, and web frameworks exist which can be employed to orchestrate or facilitate the generation of that response. Additionally, PHP can be used for many programming tasks outside the web context, such as standalone graphical applications and robotic drone control. PHP code can also be directly executed from the command line.</p>
+
+
+
+<p>The standard PHP interpreter, powered by the Zend Engine, is free software released under the PHP License. PHP has been widely ported and can be deployed on most web servers on a variety of operating systems and platforms.</p>
+
+
+
+<p>The PHP language evolved without a written formal specification or standard until 2014, with the original implementation acting as the de facto standard which other implementations aimed to follow. Since 2014, work has gone on to create a formal PHP specification.</p>
+
+
+
+<p>W3Techs reports that, as of January 2022, &#8220;PHP is used by 78.1% of all the websites whose server-side programming language we know.&#8221; PHP version 7.4 is the most used version. Support for version 7.3 was dropped on 6 December 2021.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agnijapal.github.io/code-express/web-deevlopment-with-php/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Python Language</title>
+		<link>https://agnijapal.github.io/code-express/python-language/</link>
+					<comments>https://agnijapal.github.io/code-express/python-language/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2022 10:21:02 +0000</pubDate>
+				<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">https://agnijapal.github.io/code-express/?p=623</guid>
+
+					<description><![CDATA[Python is powerful… and fast; plays well with others; runs everywhere; is friendly &#38; easy to learn; is Open.These are some of the reasons people who use Python would rather not use anything else.]]></description>
+										<content:encoded><![CDATA[
+<p>Python is powerful… and fast; plays well with others; runs everywhere; is friendly &amp; easy to learn; is Open.<br>These are some of the reasons people who use Python would rather not use anything else.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agnijapal.github.io/code-express/python-language/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

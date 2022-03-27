@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Technology &#8211; Code Express</title>
+	<atom:link href="http://localhost/wordpress/category/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>https://agnijapal.github.io/code-express</link>
+	<description>Express Your Idea Through Coding</description>
+	<lastBuildDate>Sun, 27 Mar 2022 14:43:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>Quantum Computing &#8211; A new era of computing technology</title>
+		<link>https://agnijapal.github.io/code-express/quantum-computing-a-new-era-of-computing-technology/</link>
+					<comments>https://agnijapal.github.io/code-express/quantum-computing-a-new-era-of-computing-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2022 14:42:24 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://agnijapal.github.io/code-express/?p=798</guid>
+
+					<description><![CDATA[What is Quantum Computing ? Quantum computing is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers. Today, IBM Quantum makes real quantum hardware &#8212; a tool scientists only began to imagine three decades ago &#8212; available to thousands of developers. Our engineers deliver ever-more-powerful superconducting &#8230;<p class="read-more"> <a class="" href="https://agnijapal.github.io/code-express/quantum-computing-a-new-era-of-computing-technology/"> <span class="screen-reader-text">Quantum Computing &#8211; A new era of computing technology</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2>What is Quantum Computing ?</h2>
+
+
+
+<p>Quantum computing is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers.</p>
+
+
+
+<p>Today, IBM Quantum makes real quantum hardware &#8212; a tool scientists only began to imagine three decades ago &#8212; available to thousands of developers. Our engineers deliver ever-more-powerful superconducting quantum processors at regular intervals, building toward the quantum computing speed and capacity necessary to change the world.</p>
+
+
+
+<p>These machines are very different from the classical computers that have been around for more than half a century. Here&#8217;s a primer on this transformative technology.</p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://www.ibm.com/quantum-computing/"></video><figcaption>IBM on Quantum Computing</figcaption></figure>
+
+
+
+<h2>Why do we need quantum computers?</h2>
+
+
+
+<p>For some problems, supercomputers aren’t that super.</p>
+
+
+
+<p>When scientists and engineers encounter difficult problems, they turn to supercomputers. These are very large classical computers, often with thousands of classical CPU and GPU cores. However, even supercomputers struggle to solve certain kinds of problems.</p>
+
+
+
+<p>If a supercomputer gets stumped, that&#8217;s probably because the big classical machine was asked to solve a problem with a high degree of complexity. When classical computers fail, it&#8217;s often due to complexity</p>
+
+
+
+<p>Complex problems are problems with lots of variables interacting in complicated ways. Modeling the behavior of individual atoms in a molecule is a complex problem, because of all the different electrons interacting with one another. Sorting out the ideal routes for a few hundred tankers in a global shipping network is complex too.</p>
+
+
+
+<p>Some complex problems are less obvious: A supercomputer would struggle to find the ideal seating arrangement of even 10 guests at a dinner party if they don&#8217;t all want to sit next to one another, or to find the prime factors of a big number.</p>
+
+
+
+<p class="has-text-align-right">Source : IBM</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agnijapal.github.io/code-express/quantum-computing-a-new-era-of-computing-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>RISC 5 &#8211; The Free and Open RISC Instruction Set Architecture</title>
+		<link>https://agnijapal.github.io/code-express/risc-5-a-new-hope/</link>
+					<comments>https://agnijapal.github.io/code-express/risc-5-a-new-hope/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2022 13:12:13 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://agnijapal.github.io/code-express/?p=732</guid>
+
+					<description><![CDATA[RISC-V is a free and open ISA enabling a new era of processor innovation through open standard collaboration.The RISC-V ISA delivers a new level of free, extensible software and hardware freedom on architecture, paving the way for the next 50 years of computing design and innovation. RISC-V has broken down barriers in the semiconductor industry, &#8230;<p class="read-more"> <a class="" href="https://agnijapal.github.io/code-express/risc-5-a-new-hope/"> <span class="screen-reader-text">RISC 5 &#8211; The Free and Open RISC Instruction Set Architecture</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container"><iframe title="RISC-V: The Open Era of Computing" width="1200" height="675" src="https://www.youtube.com/embed/Hl3nXexMXS0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>RISC &#8211; V : The Open Era of Computing</figcaption></figure>
+
+
+
+<p>RISC-V is a free and open ISA enabling a new era of processor innovation through open standard collaboration.<br>The RISC-V ISA delivers a new level of free, extensible software and hardware freedom on architecture, paving the way for the next 50 years of computing design and innovation.</p>
+
+
+
+<p>RISC-V has broken down barriers in the semiconductor industry, bringing together different companies, industries, and geographies for open collaboration. RISC-V combines a modular technical approach with an open license business model, meaning that anyone, anywhere can leverage the IP contributed and produced by RISC-V International.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container"><iframe loading="lazy" title="RISC-V Are you ready to break free?" width="1200" height="675" src="https://www.youtube.com/embed/yqp4LjwNk5o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Incorporated in Switzerland, RISC-V International is truly a global organization. As a non-profit, RISC-V International does not maintain any commercial interest in products or services. RISC-V also does not take a political position on behalf of any geography. We are proud to see organizations from around the world working together in this new era of processor innovation.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://agnijapal.github.io/code-express/risc-5-a-new-hope/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
